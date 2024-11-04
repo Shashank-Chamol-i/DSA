@@ -1,4 +1,4 @@
-/*class Node
+class Node
 {
 
     int data;
@@ -22,4 +22,3 @@ public class Program01 {
         System.out.println(head.data);
     }
 }
-*/
