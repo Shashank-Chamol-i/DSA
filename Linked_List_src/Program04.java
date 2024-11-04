@@ -1,4 +1,4 @@
-/*class Node
+class Node
 {
     int data;
     Node next;
@@ -65,5 +65,4 @@ public class Program04 {
 
     }
 }
-*/
 
